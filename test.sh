@@ -2,4 +2,6 @@
 
 echo "Executing tests ..."
 
+cat HelloWorld.txt
+
 exit 0
