@@ -4,4 +4,4 @@ cat HelloWorld.txt
 
 echo "Executing tests ..."
 
-exit 0
+exit 1
